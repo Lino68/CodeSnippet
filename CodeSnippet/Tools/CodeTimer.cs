@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Runtime.InteropServices;
 using System.Threading;
 
-namespace CodeSnippet.Tools
+namespace Lino.CodeSnippet.Tools
 {
     /// <summary>
     /// 原文参考：http://www.cnblogs.com/JeffreyZhao/archive/2009/03/10/CodeTimer.html
