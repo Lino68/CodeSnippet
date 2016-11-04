@@ -39,7 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Extensions\ByteExtension.cs" />
     <Compile Include="Extensions\IQueryableExtension.cs" />
+    <Compile Include="Extensions\RandomExtension.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tools\CodeTimer.cs" />
   </ItemGroup>
